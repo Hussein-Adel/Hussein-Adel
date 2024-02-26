@@ -1,5 +1,7 @@
 # Hello, I'm Hussein 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tajawal&weight=700&size=50&pause=500&color=F5ECF7&vCenter=true&random=false&width=450&height=250&lines=Mobile+App+Developer;Flutter+Developer)](https://git.io/typing-svg)
+
 ## About Me
 
 As a seasoned Flutter Developer, I specialize in creating cross-platform mobile applications that are both visually appealing and highly functional. With over 2.5 years of hands-on experience, my journey in the world of mobile development has been an exciting exploration of Flutter.
