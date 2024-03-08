@@ -72,7 +72,7 @@ Here are some notable projects I've had the pleasure of working on:
 - Description: A social networking app to connect people in need with compassionate individuals.
 - Technologies: `get`, `flutter_screenutil`, `http`, `geolocator`, `flutter_map`, `google_maps_widget`, `flutter_absolute_path`, `firebase_messaging`, `infinite_scroll_pagination`, and more.
 
-### [Almohsl 📱🚗](link-to-Almohsl-repo)
+- ### [Almohsl 📱🚗](link-to-Almohsl-repo)
 - Description: Mobile application for collectors to search and register car locations to collect car installments.
 - Technologies: `dio`, `get`, `sizer`, `get_it`, `json_annotation`, `shared_preferences`, `geolocator`, `url_launcher`, and more.
 
