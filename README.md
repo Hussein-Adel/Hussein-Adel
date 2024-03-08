@@ -44,35 +44,35 @@ As a seasoned Flutter Developer, I specialize in creating cross-platform mobile 
 
 Here are some notable projects I've had the pleasure of working on:
 
-- ### [Dorak 📱⚕️](link-to-Dorak-repo)
+- ### [Dorak 📱⚕️](https://github.com/Hussein-Adel/Dorak)
 - Description: A mobile application for booking medical appointments for both doctors and patients.
 - Technologies: `syncfusion_flutter_sliders`, `syncfusion_flutter_charts`, `syncfusion_flutter_core`, `dio`, `get`, `sizer`, `get_it`, `json_annotation`, `shared_preferences`, `easy_localization`, `geolocator`, `flutter_facebook_auth`, `google_sign_in`, `sign_in_with_apple`, `infinite_scroll_pagination`, and more.
 
-- ### [DorakPatient 📱🏥](link-to-DorakPatient-repo)
+- ### [DorakPatient 📱🏥](https://github.com/Hussein-Adel/DorakPatient)
 - Description: A mobile application designed to empower patients by providing a convenient platform for booking medical appointments.
 - Technologies: `dio`, `get`, `sizer`, `shared_preferences`, `webview_flutter`, `firebase_messaging`, `syncfusion_flutter_charts`, `easy_localization`, and more.
 
-- ### [Twelve 📱🎮](link-to-Twelve-repo)
+- ### [Twelve 📱🎮](https://github.com/Hussein-Adel/Twelve)
 - Description: Mobile app for purchasing packages and subscriptions for games and platforms.
 - Technologies: `dio`, `provider`, `sizer`, `sqflite`, `firebase_messaging`, `syncfusion_flutter_charts`, `easy_localization`, `infinite_scroll_pagination`, and more.
 
-- ### [Tmlk 📱🏠](link-to-Tmlk-repo)
+- ### [Tmlk 📱🏠](https://github.com/Hussein-Adel/Tmlk)
 - Description: Real estate contracting broker's app connecting clients with various real estate service providers.
 - Technologies: `dio`, `get`, `sizer`, `shared_preferences`, `webview_flutter`, `firebase_messaging`, `firebase_crashlytics`, `infinite_scroll_pagination`, and more.
 
-- ### [Nour-Enaik 📱👁️‍🗨️](link-to-Nour-Enaik-repo)
+- ### [Nour-Enaik 📱👁️‍🗨️](https://github.com/Hussein-Adel/Nour-Enaik)
 - Description: Medical application to remind users of eye drops appointments and doctor’s follow-up tests.
 - Technologies: `awesome_notifications`, `syncfusion_flutter_charts`, `shared_preferences`, `sqflite`, and more.
 
-- ### [New-Life 📱💧](link-to-New-Life-repo)
+- ### [New-Life 📱💧](https://github.com/Hussein-Adel/New-Life)
 - Description: Mobile application for a water filter company to manage employees, follow up on installments, and dates for changing filter parts.
 - Technologies: `dio`, `get`, `sizer`, `url_launcher`, `geolocator`, `qrscan`, and more.
 
-- ### [Needy 📱🤝](link-to-Needy-repo)
+- ### [Needy 📱🤝](https://github.com/Hussein-Adel/Needy)
 - Description: A social networking app to connect people in need with compassionate individuals.
 - Technologies: `get`, `flutter_screenutil`, `http`, `geolocator`, `flutter_map`, `google_maps_widget`, `flutter_absolute_path`, `firebase_messaging`, `infinite_scroll_pagination`, and more.
 
-- ### [Almohsl 📱🚗](link-to-Almohsl-repo)
+- ### [Almohsl 📱🚗](https://github.com/Hussein-Adel/Almohsl)
 - Description: Mobile application for collectors to search and register car locations to collect car installments.
 - Technologies: `dio`, `get`, `sizer`, `get_it`, `json_annotation`, `shared_preferences`, `geolocator`, `url_launcher`, and more.
 
